@@ -16,8 +16,17 @@ A full-stack Django-based inventory management system integrated with a Flask AP
   <img src="https://raw.githubusercontent.com/Meriteid24/inventory-ml/main/demo/dashboard.png" width="600" alt="Inventory Admin Dashboard" />
 </p>
 
-**Tech Stack**  
-`Django` · `Flask` · `Pandas` · `Random Forest` · `SQLite` · `Matplotlib` · `TailwindCSS`
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/APScheduler-003B57?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
 **Key Features**
 - Admin dashboard with real-time inventory stats
@@ -39,8 +48,16 @@ A modern weather app powered by OpenWeatherMap API. Built with a Laravel API-onl
   <img src="https://raw.githubusercontent.com/Meriteid24/weather-app/main/demo/desktop-dark.png" width="450"/>
 </p>
 
-**Tech Stack**  
-`Laravel` · `Next.js` · `TypeScript` · `RippleUI` · `TailwindCSS` · `OpenWeatherMap API`
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenWeather-111111?style=for-the-badge&logo=OpenWeatherMap&logoColor=orange" />
+</p>
 
 **Key Features**
 - Accurate 7-day and hourly forecasts
@@ -66,4 +83,3 @@ A modern weather app powered by OpenWeatherMap API. Built with a Laravel API-onl
   <img src="https://github-readme-stats.vercel.app/api?username=Meriteid24&show_icons=true&theme=radical" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meriteid24&theme=radical" width="400"/>
 </p>
-
