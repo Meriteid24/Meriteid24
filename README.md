@@ -45,7 +45,7 @@ A modern weather app powered by OpenWeatherMap API. Built with a Laravel API-onl
 **Key Features**
 - Accurate 7-day and hourly forecasts
 - Responsive design (mobile-first)
-- Clean UI with light/dark themes
+- Clean UI 
 - Location search with real-time updates
 
 🔗 [Repo](https://github.com/Meriteid24/weather-app) • 🌐 [Live Demo](#)
