@@ -83,3 +83,7 @@ A modern weather app powered by OpenWeatherMap API. Built with a Laravel API-onl
   <img src="https://github-readme-stats.vercel.app/api?username=Meriteid24&show_icons=true&theme=radical" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meriteid24&theme=radical" width="400"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meriteid24&layout=compact&theme=radical&langs_count=8" width="400"/>
+</p>
