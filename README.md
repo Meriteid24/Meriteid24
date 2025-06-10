@@ -13,7 +13,7 @@
 A full-stack Django-based inventory management system integrated with a Flask API for demand forecasting using Random Forest Regression.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Meriteid24/inventory-ml/main/demo/dashboard.png" width="600" alt="Inventory Admin Dashboard" />
+  <img src="https://github.com/Meriteid24/Django-inventory/blob/main/demo/Admin%20dashboard.png" alt="Inventory Admin Dashboard" />
 </p>
 
 ### 🛠️ Tech Stack
