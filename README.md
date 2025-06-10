@@ -44,8 +44,7 @@ A full-stack Django-based inventory management system integrated with a Flask AP
 A modern weather app powered by OpenWeatherMap API. Built with a Laravel API-only backend and a responsive frontend using Next.js, TypeScript, and RippleUI.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Meriteid24/weather-app/main/demo/mobile-light.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/Meriteid24/weather-app/main/demo/desktop-dark.png" width="450"/>
+  <img src="https://github.com/Meriteid24/port/blob/main/public/images/weather%20app.png" width="600"/>
 </p>
 
 ### 🛠️ Tech Stack
@@ -65,7 +64,7 @@ A modern weather app powered by OpenWeatherMap API. Built with a Laravel API-onl
 - Clean UI 
 - Location search with real-time updates
 
-🔗 [Repo](https://github.com/Meriteid24/weather-app) • 🌐 [Live Demo](#)
+🔗 [Repo](https://github.com/Meriteid24/weather-app) • 🌐 [Live Demo](https://weather-c8wc4qwad-meriteid24s-projects.vercel.app/)
 
 ---
 
