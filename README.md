@@ -35,7 +35,7 @@ A full-stack Django-based inventory management system integrated with a Flask AP
 - Trending product web scraping (Amazon, Newegg, AliExpress)
 - APScheduler for daily scraping and predictions
 
-🔗 [Repo](https://github.com/Meriteid24/inventory-ml) • 📽️ [Demo](#)
+🔗 [Repo](https://github.com/Meriteid24/inventory-ml) • 📽️ [Demo](https://django-inventory-yh9q.onrender.com/)
 
 ---
 
