@@ -38,6 +38,38 @@ A full-stack Django-based inventory management system integrated with a Flask AP
 🔗 [Repo](https://github.com/Meriteid24/inventory-ml) • 📽️ [Demo](https://django-inventory-yh9q.onrender.com/)
 
 ---
+#### 🔍 Web Scraper (Python)
+A Python scraper that collects trending computer and tech products from multiple e-commerce sites and saves them to an Excel file to help with easier restocking for local stores.
+
+
+<p align="center">
+  <img src="https://github.com/Meriteid24/scraper/blob/main/public/images/scraper.png" width="600"/>
+</p>
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup4-59666C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/FuzzyWuzzy-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenPyXL-1D6F42?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+
+**Key Features**
+- Scrapes product trends from Amazon, Newegg, and Jumia.
+- Saves trends to trending_products.xlsx for easy viewing and analysis.
+- Automatically removes duplicate products and keeps only the last 5 days of data.
+- Uses fuzzy matching to check if a specific item is trending.
+- Implements retries and user-agent headers for reliable scraping.
+
+
+🔗 [Repo](https://github.com/Meriteid24/scraper) 
+
+---
+
 
 #### 🌦️ Weather Forecast App (Laravel + Next.js)
 
