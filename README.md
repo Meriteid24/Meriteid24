@@ -43,7 +43,7 @@ A Python scraper that collects trending computer and tech products from multiple
 
 
 <p align="center">
-  <img src="https://github.com/Meriteid24/port/blob/main/public/images/scraper.png" width="600"/>
+  <img src="https://github.com/Meriteid24/port/blob/main/public/images/scraper.png" width="800"/>
 </p>
 
 ### 🛠️ Tech Stack
