@@ -10,7 +10,7 @@
 ### 🚀 Projects:
 
 #### 📦 Inventory Management System with ML Integration  
-A full-stack Django-based inventory management system integrated with a Flask API for demand forecasting using Random Forest Regression.
+A full-stack Django-based inventory management system integrated with a Flask API for demand forecasting using a Random Forest Regressor.
 
 <p align="center">
   <img src="https://github.com/Meriteid24/Django-inventory/blob/main/demo/Admin%20dashboard.png" width="600" alt="Inventory Admin Dashboard" />
